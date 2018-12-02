@@ -1,0 +1,2 @@
+# apasalahku.js
+apasalahku
